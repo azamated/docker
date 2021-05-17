@@ -1,5 +1,3 @@
-
-'''
 ### DKR 05 
 
 1.
@@ -29,4 +27,3 @@
 
 - Remove all containers in one command, any of the  methods is suitable
 
-'''

@@ -1,4 +1,3 @@
-```
 ### Dkr 08
 
 - Download the nginx conf file
@@ -13,4 +12,3 @@
  
   - listening on host 127.0.0.1:8900
 
-```

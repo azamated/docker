@@ -1,5 +1,4 @@
 
-'''
 ### DKR 03 
 
 - Download the nginx config file.
@@ -26,5 +25,3 @@
 
 - Check the work by referring to 127.0.0.1:8890 - in response it should return the string Welcome to Docker! Again!
 
-
-'''

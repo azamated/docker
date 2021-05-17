@@ -1,5 +1,4 @@
 
-'''
 ### DKR 04 
 
 - Download the nginx config file.
@@ -28,4 +27,3 @@
 
 - Delete the container and volume.
 
-'''

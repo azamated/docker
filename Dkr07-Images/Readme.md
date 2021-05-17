@@ -1,5 +1,4 @@
 
-'''
 ### DKR 07 
 
 - Download the nginx: stable-alpine image
@@ -16,4 +15,3 @@
 
 - Print the list of running containers  - the container must be running.
 
-'''

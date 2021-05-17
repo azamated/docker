@@ -1,5 +1,4 @@
 
-'''
 ### DKR 06 
 
 - Run a container with the following parameters:
@@ -37,4 +36,4 @@
 
 - Stop and remove containers
 
-'''
+

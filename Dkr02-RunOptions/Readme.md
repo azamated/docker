@@ -1,4 +1,4 @@
-```
+
 ### DKR 02
 
 - Download the nginx config file.
@@ -17,4 +17,3 @@
 
 - Check the work by referring to 127.0.0.1:8889 - in response it should return the "Welcom" string
 
-```
